@@ -1,6 +1,6 @@
 import React from 'react'
 
-import productInventoryStyle from "./productInventoryStyle.module.css"
+// import productInventoryStyle from "./productInventoryStyle.module.css"
 //className={productInventoryPage.className} using module.css to avoid collision of same css variable in multiple files
 
 const ProductInventoryPage = () =>{

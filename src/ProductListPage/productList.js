@@ -1,6 +1,6 @@
 import React from 'react';
-import { MDBTable, MDBTableBody, MDBTableHead } from 'mdbreact';
-import { MDBContainer } from '../src';
+import { MDBTable,MDBContainer, MDBTableBody, MDBTableHead } from 'mdbreact';
+// import {  } from '../';
 // import { MDBTypography, MDBBox } from 'mdbreact';
 
 const BasicTable = () => {
